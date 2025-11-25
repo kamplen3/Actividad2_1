@@ -17,3 +17,7 @@
 ### Tambien creamos una nueva página .markdown que aparecerá al lado de about y podremos acceder a su contenido.
 
 ![alt text](image-4.png)
+
+### Ahora creamos el contenido de la página que seran los distintos post, estos se crean el la carpeta `_posts`
+
+![alt text](image-5.png)
