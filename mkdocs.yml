@@ -1,2 +1,11 @@
 site_name: Actividad2_1
-repo_url: https://github.com/kamplen3/Actividad2_1ss
+site_url: https://kamplen3.github.io/Actividad2_1/
+docs_dir: docs
+site_dir: site
+
+nav:
+  -Inicio: index.md
+  -Minima: Ejercicio1_Samuel_Saez.md
+  -Lagrange: Ejercicio2_Samuel_Saez.md
+  -Wall-E: Ejercicio3_Samuel_Saez.md
+theme: readthedocs
